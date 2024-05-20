@@ -1,0 +1,218 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Experience</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt">
+						<a href="index.html" class="logo"><strong>Home</strong> <span>Jeremy Cloud Resume</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="language.html">Language Proficiency</a></li>
+							<li><a href="education.html">Education</a></li>
+							<li><a href="skills.html">Skills</a></li>
+							<li><a href="experience.html">Experience</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/pic07.jpg" alt="" />
+							</span>
+							<header class="major">
+								<h1>Experience</h1>
+							</header>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Digital Support Analyst at Compass Group Canada</h2>
+									</header>
+									<h5>Mississauga ON, November 2022 - Present</h5>
+									
+									<p>
+									 • Provided digital support to end-users, addressing hardware and software issues, and resolving technical problems promptly to minimize downtime.<br><br>
+									 • Troubleshot and resolved hardware and software issues related to POS systems, ensuring minimal disruption to business operations.<br><br>
+									 • Collaborated with stakeholders, including product managers, site owners, and developers, to gather requirements and understand the objectives of the POS menu design.<br><br>
+									 • Utilized Zendesk's ticketing system to prioritize and categorize support tickets, ensuring appropriate handling and resolution.<br><br>
+									 • Collaborated with high-profile clients in the food and beverage industry, such as Subway, Tim Hortons, and Pizza Pizza, to gain comprehensive insights into their unique branding, target audience, and specific menu objectives.
+									</p>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="spotlights">
+								<section>
+									<a class="image">
+										<img src="images/pic12.jpg" alt="" data-position="center center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>Data Reporting Analyst at BMO Financial Group</h3>
+												<h5>Scarborough ON, December 2020 – June 2022</h5>
+											</header>
+											<p>
+											 • Acts as the bridge between the customers and the fulfillment groups<br><br>
+											 • Serve as the first point of contact for customers seeking technical assistance over the phone, in person, or email and provide accurate information to customers and management on available IT products or services<br><br>
+											 • Administers role groups with Active Directory<br><br>
+											 • Support the process of new hires/terminations, including ensuring that the proper forms are filled out for each new hire and termination, and forms are retained in the ticketing system for future reference.<br><br>
+											 • Accountable for facilitating and coordinating multiple requests <br><br>
+											 • Responsible for Taking phone calls and responding to emails<br><br>
+											 • Monitor and follow up on tickets to ensure service delivery, especially those that are overdue or close to being overdue to ensure prompt resolution to meet service expectations and ensure that documentation is followed and kept up to date including standards, procedures, change management procedures, and compliance documentation including PCI, disaster recovery procedures, etc.
+											</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="images/pic12.jpg" alt="" data-position="top center" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>National IT Support Technician at Make-A-Wish® Canada</h3>
+												<h5>Pickering ON, March 2020 – September 2020 </h5>
+											</header>
+											<p>
+											 • Supports a Windows 7/10 and Mac OS desktop environment<br><br>
+											 • Provides day-to-day IT support and services nationally to all chapters across the Foundation<br><br>
+											 • Perform remote troubleshooting through diagnostic techniques and asking pertinent questions posed by customers, determining the best solution based upon the issue and details provided by customers and, when practical, walking the customer through the problem-solving process, including providing after hours emergency support on an as needed basis.  As necessary, escalating unresolved issues to the next level of support personnel or third parties.<br><br>
+											 • Administers users’ account information for Active Directory, VoIP and mobile device services
+											 • Management of Active Directory and its components, including but not limited to: creation/maintenance of accounts and groups, auditing access levels, ensuring the security and integrity of accounts, managing file shares and file share permissions.<br><br>
+											 • Deploys and maintains desktop and laptop hardware and software<br><br>
+											 • Completes various projects mandated by the National Director of IT<br><br>
+											 • Ensure documentation is followed and kept up to date including standards, procedures, change management procedures, and compliance documentation including PCI, disaster recovery procedures, etc.<br><br>
+											</p>
+										</div>
+									</div>
+								</section>
+								<section>
+									<a class="image">
+										<img src="images/pic13.jpg" alt="" data-position="25% 25%" />
+									</a>
+									<div class="content">
+										<div class="inner">
+											<header class="major">
+												<h3>End User Service Technician at General Motors of Canada Company</h3>
+												<h5>Oshawa ON, Placement April 2019</h5>
+											</header>
+											<p>
+											 • Prepared Windows partitions for efficient PC formatting <br><br>
+											 • Coordinated multiple PC builds (Windows 10, Windows 7) for new GM users<br><br>
+											 • Installs, implements, configures, and monitors equipment and software/firmware for all components of the desktop environment. Develop relationships with third party vendors for assigned projects and ongoing support. Responsible for escalating service and audit issues and needs as necessary with vendors and internally with leadership.<br><br>
+											 • Provided inventory and asset cleanup including cable management and effective equipment storage 
+											 • Support of remote and mobile equipment, including cell phones, laptops, and mobile hotspots and keeping an accurate inventory/record of equipment and usage.<br><br>
+											 • Facilitated user off-boarding activates for former computer users 
+											</p>
+										</div>
+									</div>
+								</section>
+							</section>
+
+						<!-- Three -->
+							
+
+					</div>
+
+				<!-- Contact -->
+				
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">jbangala@hotmail.com</a>
+								</div>
+							</section>
+							
+							<section>
+							<br><br>
+								<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(416) 706-9991</span>
+									</div>
+							</section>
+						</div>
+					</section>
+					
+					<section id="contact">
+						<div class="inner">
+							<section>
+								<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Address</h3>
+										<span>2024 Shay Dr<br />
+										Pickering ON<br />
+										Canada</span>
+								</div>
+							</section>
+							
+							<section>
+							<br><br>
+								<div class="contact-method">
+										<a href="#" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a>
+										<h3>Linkedin</h3>
+										<a href="https://www.linkedin.com/in/jeremy-bangala-665809147/" target="_blank">Jeremy Bangala</a>
+								</div>
+							</section>
+						</div>
+					</section>
+					
+					
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="copyright">
+								<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
